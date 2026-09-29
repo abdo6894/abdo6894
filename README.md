@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<img width="1536" height="1024" alt="590134670-a43fb160-a665-41b4-9f9d-cd824b408274" src="https://github.com/user-attachments/assets/892e12ce-cf7f-453a-8bb0-2fcbfc51d668" />
+
 ---
 
 ## 👋 About Me
