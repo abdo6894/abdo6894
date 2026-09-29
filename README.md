@@ -1,16 +1,111 @@
-## Hi there 👋
 
-<!--
-**abdo6894/abdo6894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Abdullah Hashem
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+.NET+Developer;ASP.NET+Core+%26+C%23;Clean+Architecture;Building+Scalable+APIs" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdo-mohamed2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdo6894">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a Software Engineering graduate from Mansoura University and a Backend .NET Developer with professional experience building backend applications and RESTful APIs.
+
+- 🔹 Specialized in **C# and ASP.NET Core**
+- 🔹 Building maintainable and scalable backend systems
+- 🔹 Applying **Clean Architecture, SOLID principles, and design patterns**
+- 🔹 Working with SQL Server, Entity Framework Core, and RESTful APIs
+- 🔹 Interested in backend performance, system design, and production-ready software
+
+> "Great software is built on clean code, thoughtful design, and continuous learning."
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🏗️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🔐 Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🧠 Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6C37?style=for-the-badge" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### MoveLens
+A Cairo day-trip planning application that helps users discover places and plan trips based on their budget, preferences, and transportation options.
+
+- Backend developed using ASP.NET Core and SQL Server.
+- Clean Architecture, CQRS, and route-planning algorithms.
+- JWT authentication and background processing.
+
+🔗 [GitHub Repository](https://github.com/abdo6894/MoveLens)
+
+### SkillSwapAPI
+A peer-to-peer skill exchange platform where users teach and learn skills using a time-based credit system.
+
+- ASP.NET Core Web API backend.
+- Modular domain organization and Clean Architecture.
+- Features include user profiles, skill discovery, proposals, sessions, and wallet management.
+
+🔗 [GitHub Profile](https://github.com/abdo6894)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdo-mohamed2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdo6894">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
