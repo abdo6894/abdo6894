@@ -1,4 +1,3 @@
-
 # 👨‍💻 Abdullah Hashem
 
 <p align="center">
@@ -37,8 +36,21 @@
 ### 🏗️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge" />
+</p>
+
+### 🧠 Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-6E5494?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6C37?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
@@ -52,16 +64,6 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🧠 Architecture & Concepts
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6C37?style=for-the-badge" />
-</p>
-
 ### 🛠️ Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -69,6 +71,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### 🌐 Frontend (Occasional)
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ---
